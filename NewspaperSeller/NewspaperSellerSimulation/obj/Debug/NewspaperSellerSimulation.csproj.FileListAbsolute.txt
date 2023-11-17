@@ -1,0 +1,198 @@
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation\NewspaperSellerSimulation\bin\Debug\NewspaperSellerSimulation.exe.config
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation\NewspaperSellerSimulation\bin\Debug\NewspaperSellerSimulation.exe
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation\NewspaperSellerSimulation\bin\Debug\NewspaperSellerSimulation.pdb
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.csprojResolveAssemblyReference.cache
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.Properties.Resources.resources
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.csproj.GenerateResource.Cache
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.exe
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.pdb
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah\NewspaperSellerSimulation\bin\Debug\NewspaperSellerSimulation.exe.config
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.exe
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.pdb
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah\NewspaperSellerSimulation\bin\Debug\NewspaperSellerSimulation.exe
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah\NewspaperSellerSimulation\bin\Debug\NewspaperSellerSimulation.pdb
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.csprojResolveAssemblyReference.cache
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.Form1.resources
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.Properties.Resources.resources
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.csproj.GenerateResource.Cache
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah\NewspaperSellerSimulation\bin\Debug\NewspaperSellerModels.dll
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah\NewspaperSellerSimulation\bin\Debug\NewspaperSellerTesting.dll
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah\NewspaperSellerSimulation\bin\Debug\NewspaperSellerModels.pdb
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah\NewspaperSellerSimulation\bin\Debug\NewspaperSellerTesting.pdb
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.SimualtionTableForm.resources
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.PerformanceMeasuresForm.resources
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah_RunningVer\NewspaperSellerSimulation\bin\Debug\NewspaperSellerSimulation.exe.config
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah_RunningVer\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.exe
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah_RunningVer\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.pdb
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah_RunningVer\NewspaperSellerSimulation\bin\Debug\NewspaperSellerSimulation.exe
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah_RunningVer\NewspaperSellerSimulation\bin\Debug\NewspaperSellerSimulation.pdb
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah_RunningVer\NewspaperSellerSimulation\bin\Debug\NewspaperSellerModels.dll
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah_RunningVer\NewspaperSellerSimulation\bin\Debug\NewspaperSellerTesting.dll
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah_RunningVer\NewspaperSellerSimulation\bin\Debug\NewspaperSellerModels.pdb
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah_RunningVer\NewspaperSellerSimulation\bin\Debug\NewspaperSellerTesting.pdb
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah_RunningVer\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.csprojResolveAssemblyReference.cache
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah_RunningVer\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.Form1.resources
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah_RunningVer\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.PerformanceMeasuresForm.resources
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah_RunningVer\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.Properties.Resources.resources
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah_RunningVer\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.SimualtionTableForm.resources
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah_RunningVer\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.csproj.GenerateResource.Cache
+C:\Users\admin\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah_RunningVer\NewspaperSellerSimulation\bin\Debug\NewspaperSellerSimulation.exe.config
+C:\Users\admin\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah_RunningVer\NewspaperSellerSimulation\bin\Debug\NewspaperSellerSimulation.exe
+C:\Users\admin\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah_RunningVer\NewspaperSellerSimulation\bin\Debug\NewspaperSellerSimulation.pdb
+C:\Users\admin\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah_RunningVer\NewspaperSellerSimulation\bin\Debug\NewspaperSellerModels.dll
+C:\Users\admin\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah_RunningVer\NewspaperSellerSimulation\bin\Debug\NewspaperSellerTesting.dll
+C:\Users\admin\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah_RunningVer\NewspaperSellerSimulation\bin\Debug\NewspaperSellerModels.pdb
+C:\Users\admin\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah_RunningVer\NewspaperSellerSimulation\bin\Debug\NewspaperSellerTesting.pdb
+C:\Users\admin\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah_RunningVer\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.csprojResolveAssemblyReference.cache
+C:\Users\admin\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah_RunningVer\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.Form1.resources
+C:\Users\admin\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah_RunningVer\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.PerformanceMeasuresForm.resources
+C:\Users\admin\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah_RunningVer\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.Properties.Resources.resources
+C:\Users\admin\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah_RunningVer\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.SimualtionTableForm.resources
+C:\Users\admin\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah_RunningVer\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.csproj.GenerateResource.Cache
+C:\Users\admin\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah_RunningVer\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.csproj.CoreCompileInputs.cache
+C:\Users\admin\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah_RunningVer\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.exe
+C:\Users\admin\Dropbox\Simulation 2017-2018\2017-2018 Material\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah_RunningVer\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.pdb
+C:\Users\admin\Dropbox\Simulation 2017-2018\2017-2018 Material\Labs\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah_RunningVer\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.csprojResolveAssemblyReference.cache
+C:\Users\admin\Dropbox\Simulation 2017-2018\2017-2018 Material\Labs\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah_RunningVer\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.Form1.resources
+C:\Users\admin\Dropbox\Simulation 2017-2018\2017-2018 Material\Labs\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah_RunningVer\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.PerformanceMeasuresForm.resources
+C:\Users\admin\Dropbox\Simulation 2017-2018\2017-2018 Material\Labs\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah_RunningVer\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.Properties.Resources.resources
+C:\Users\admin\Dropbox\Simulation 2017-2018\2017-2018 Material\Labs\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah_RunningVer\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.SimualtionTableForm.resources
+C:\Users\admin\Dropbox\Simulation 2017-2018\2017-2018 Material\Labs\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah_RunningVer\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.csproj.GenerateResource.Cache
+C:\Users\admin\Dropbox\Simulation 2017-2018\2017-2018 Material\Labs\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah_RunningVer\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.csproj.CoreCompileInputs.cache
+C:\Users\admin\Dropbox\Simulation 2017-2018\2017-2018 Material\Labs\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah_RunningVer\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.exe
+C:\Users\admin\Dropbox\Simulation 2017-2018\2017-2018 Material\Labs\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah_RunningVer\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.pdb
+C:\Users\admin\Dropbox\Simulation 2017-2018\2017-2018 Material\Labs\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah_RunningVer\NewspaperSellerSimulation\bin\Debug\NewspaperSellerSimulation.exe.config
+C:\Users\admin\Dropbox\Simulation 2017-2018\2017-2018 Material\Labs\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah_RunningVer\NewspaperSellerSimulation\bin\Debug\NewspaperSellerSimulation.exe
+C:\Users\admin\Dropbox\Simulation 2017-2018\2017-2018 Material\Labs\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah_RunningVer\NewspaperSellerSimulation\bin\Debug\NewspaperSellerSimulation.pdb
+C:\Users\admin\Dropbox\Simulation 2017-2018\2017-2018 Material\Labs\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah_RunningVer\NewspaperSellerSimulation\bin\Debug\NewspaperSellerModels.dll
+C:\Users\admin\Dropbox\Simulation 2017-2018\2017-2018 Material\Labs\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah_RunningVer\NewspaperSellerSimulation\bin\Debug\NewspaperSellerTesting.dll
+C:\Users\admin\Dropbox\Simulation 2017-2018\2017-2018 Material\Labs\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah_RunningVer\NewspaperSellerSimulation\bin\Debug\NewspaperSellerModels.pdb
+C:\Users\admin\Dropbox\Simulation 2017-2018\2017-2018 Material\Labs\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah_RunningVer\NewspaperSellerSimulation\bin\Debug\NewspaperSellerTesting.pdb
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Labs\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah\NewspaperSellerSimulation\bin\Debug\NewspaperSellerSimulation.exe.config
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Labs\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.exe
+C:\Users\Osama\Dropbox\Simulation 2017-2018\2017-2018 Material\Labs\Lab 5\Task-Class Library\NewspaperSellerSimulation_Sarah\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.pdb
+D:\College Work\[InventorySimulation] Task-Class Library\NewspaperSellerSimulation_Sarah\NewspaperSellerSimulation\bin\Debug\NewspaperSellerSimulation.exe.config
+D:\College Work\[InventorySimulation] Task-Class Library\NewspaperSellerSimulation_Sarah\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.exe
+D:\College Work\[InventorySimulation] Task-Class Library\NewspaperSellerSimulation_Sarah\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.pdb
+D:\College Work\[InventorySimulation] Task-Class Library\NewspaperSellerSimulation_Sarah\NewspaperSellerSimulation\bin\Debug\NewspaperSellerSimulation.exe
+D:\College Work\[InventorySimulation] Task-Class Library\NewspaperSellerSimulation_Sarah\NewspaperSellerSimulation\bin\Debug\NewspaperSellerSimulation.pdb
+D:\College Work\[InventorySimulation] Task-Class Library\NewspaperSellerSimulation_Sarah\NewspaperSellerSimulation\bin\Debug\NewspaperSellerModels.dll
+D:\College Work\[InventorySimulation] Task-Class Library\NewspaperSellerSimulation_Sarah\NewspaperSellerSimulation\bin\Debug\NewspaperSellerTesting.dll
+D:\College Work\[InventorySimulation] Task-Class Library\NewspaperSellerSimulation_Sarah\NewspaperSellerSimulation\bin\Debug\NewspaperSellerModels.pdb
+D:\College Work\[InventorySimulation] Task-Class Library\NewspaperSellerSimulation_Sarah\NewspaperSellerSimulation\bin\Debug\NewspaperSellerTesting.pdb
+D:\College Work\[InventorySimulation] Task-Class Library\NewspaperSellerSimulation_Sarah\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.csprojResolveAssemblyReference.cache
+D:\College Work\[InventorySimulation] Task-Class Library\NewspaperSellerSimulation_Sarah\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.Form1.resources
+D:\College Work\[InventorySimulation] Task-Class Library\NewspaperSellerSimulation_Sarah\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.PerformanceMeasuresForm.resources
+D:\College Work\[InventorySimulation] Task-Class Library\NewspaperSellerSimulation_Sarah\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.Properties.Resources.resources
+D:\College Work\[InventorySimulation] Task-Class Library\NewspaperSellerSimulation_Sarah\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.SimualtionTableForm.resources
+D:\College Work\[InventorySimulation] Task-Class Library\NewspaperSellerSimulation_Sarah\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.csproj.GenerateResource.Cache
+C:\Users\Osama\Desktop\[InventorySimulation] Task-Class Library\NewspaperSellerSimulation_Sarah\NewspaperSellerSimulation\bin\Debug\NewspaperSellerSimulation.exe.config
+C:\Users\Osama\Desktop\[InventorySimulation] Task-Class Library\NewspaperSellerSimulation_Sarah\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.exe
+C:\Users\Osama\Desktop\[InventorySimulation] Task-Class Library\NewspaperSellerSimulation_Sarah\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.pdb
+C:\Users\Osama\Desktop\[InventorySimulation] Task-Class Library\NewspaperSellerSimulation_Sarah\NewspaperSellerSimulation\bin\Debug\NewspaperSellerSimulation.exe
+C:\Users\Osama\Desktop\[InventorySimulation] Task-Class Library\NewspaperSellerSimulation_Sarah\NewspaperSellerSimulation\bin\Debug\NewspaperSellerSimulation.pdb
+C:\Users\Osama\Desktop\[InventorySimulation] Task-Class Library\NewspaperSellerSimulation_Sarah\NewspaperSellerSimulation\bin\Debug\NewspaperSellerModels.dll
+C:\Users\Osama\Desktop\[InventorySimulation] Task-Class Library\NewspaperSellerSimulation_Sarah\NewspaperSellerSimulation\bin\Debug\NewspaperSellerTesting.dll
+C:\Users\Osama\Desktop\[InventorySimulation] Task-Class Library\NewspaperSellerSimulation_Sarah\NewspaperSellerSimulation\bin\Debug\NewspaperSellerModels.pdb
+C:\Users\Osama\Desktop\[InventorySimulation] Task-Class Library\NewspaperSellerSimulation_Sarah\NewspaperSellerSimulation\bin\Debug\NewspaperSellerTesting.pdb
+C:\Users\Osama\Desktop\[InventorySimulation] Task-Class Library\NewspaperSellerSimulation_Sarah\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.csprojResolveAssemblyReference.cache
+C:\Users\Osama\Desktop\[InventorySimulation] Task-Class Library\NewspaperSellerSimulation_Sarah\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.Form1.resources
+C:\Users\Osama\Desktop\[InventorySimulation] Task-Class Library\NewspaperSellerSimulation_Sarah\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.PerformanceMeasuresForm.resources
+C:\Users\Osama\Desktop\[InventorySimulation] Task-Class Library\NewspaperSellerSimulation_Sarah\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.Properties.Resources.resources
+C:\Users\Osama\Desktop\[InventorySimulation] Task-Class Library\NewspaperSellerSimulation_Sarah\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.SimualtionTableForm.resources
+C:\Users\Osama\Desktop\[InventorySimulation] Task-Class Library\NewspaperSellerSimulation_Sarah\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.csproj.GenerateResource.Cache
+C:\Users\Osama\Desktop\[InventorySimulation]_Class Library\NewspaperSellerSimulation_Students\NewspaperSellerSimulation\bin\Debug\NewspaperSellerSimulation.exe.config
+C:\Users\Osama\Desktop\[InventorySimulation]_Class Library\NewspaperSellerSimulation_Students\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.exe
+C:\Users\Osama\Desktop\[InventorySimulation]_Class Library\NewspaperSellerSimulation_Students\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.pdb
+C:\Users\Osama\Desktop\[InventorySimulation]_Class Library\NewspaperSellerSimulation_Students\NewspaperSellerSimulation\bin\Debug\NewspaperSellerSimulation.exe
+C:\Users\Osama\Desktop\[InventorySimulation]_Class Library\NewspaperSellerSimulation_Students\NewspaperSellerSimulation\bin\Debug\NewspaperSellerSimulation.pdb
+C:\Users\Osama\Desktop\[InventorySimulation]_Class Library\NewspaperSellerSimulation_Students\NewspaperSellerSimulation\bin\Debug\NewspaperSellerModels.dll
+C:\Users\Osama\Desktop\[InventorySimulation]_Class Library\NewspaperSellerSimulation_Students\NewspaperSellerSimulation\bin\Debug\NewspaperSellerTesting.dll
+C:\Users\Osama\Desktop\[InventorySimulation]_Class Library\NewspaperSellerSimulation_Students\NewspaperSellerSimulation\bin\Debug\NewspaperSellerModels.pdb
+C:\Users\Osama\Desktop\[InventorySimulation]_Class Library\NewspaperSellerSimulation_Students\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.csprojResolveAssemblyReference.cache
+C:\Users\Osama\Desktop\[InventorySimulation]_Class Library\NewspaperSellerSimulation_Students\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.Properties.Resources.resources
+C:\Users\Osama\Desktop\[InventorySimulation]_Class Library\NewspaperSellerSimulation_Students\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.csproj.GenerateResource.Cache
+D:\Projects\Modeling-and-Simulation\Task #2\NewspaperSellerSimulation\bin\Debug\NewspaperSellerSimulation.exe.config
+D:\Projects\Modeling-and-Simulation\Task #2\NewspaperSellerSimulation\bin\Debug\NewspaperSellerSimulation.exe
+D:\Projects\Modeling-and-Simulation\Task #2\NewspaperSellerSimulation\bin\Debug\NewspaperSellerSimulation.pdb
+D:\Projects\Modeling-and-Simulation\Task #2\NewspaperSellerSimulation\bin\Debug\NewspaperSellerModels.dll
+D:\Projects\Modeling-and-Simulation\Task #2\NewspaperSellerSimulation\bin\Debug\NewspaperSellerModels.pdb
+D:\Projects\Modeling-and-Simulation\Task #2\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.csproj.AssemblyReference.cache
+D:\Projects\Modeling-and-Simulation\Task #2\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.Properties.Resources.resources
+D:\Projects\Modeling-and-Simulation\Task #2\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.csproj.GenerateResource.cache
+D:\Projects\Modeling-and-Simulation\Task #2\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.csproj.CoreCompileInputs.cache
+D:\Projects\Modeling-and-Simulation\Task #2\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.csproj.CopyComplete
+D:\Projects\Modeling-and-Simulation\Task #2\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.exe
+D:\Projects\Modeling-and-Simulation\Task #2\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.pdb
+D:\Modelling\Task #2\NewspaperSellerSimulation\bin\Debug\NewspaperSellerSimulation.exe.config
+D:\Modelling\Task #2\NewspaperSellerSimulation\bin\Debug\NewspaperSellerSimulation.exe
+D:\Modelling\Task #2\NewspaperSellerSimulation\bin\Debug\NewspaperSellerSimulation.pdb
+D:\Modelling\Task #2\NewspaperSellerSimulation\bin\Debug\NewspaperSellerModels.dll
+D:\Modelling\Task #2\NewspaperSellerSimulation\bin\Debug\NewspaperSellerModels.pdb
+D:\Modelling\Task #2\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.csproj.AssemblyReference.cache
+D:\Modelling\Task #2\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.Properties.Resources.resources
+D:\Modelling\Task #2\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.csproj.GenerateResource.cache
+D:\Modelling\Task #2\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.csproj.CoreCompileInputs.cache
+D:\Modelling\Task #2\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.csproj.CopyComplete
+D:\Modelling\Task #2\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.exe
+D:\Modelling\Task #2\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.pdb
+D:\geometry\Modeling-and-Simulation\Task #2\NewspaperSellerSimulation\bin\Debug\NewspaperSellerSimulation.exe.config
+D:\geometry\Modeling-and-Simulation\Task #2\NewspaperSellerSimulation\bin\Debug\NewspaperSellerSimulation.exe
+D:\geometry\Modeling-and-Simulation\Task #2\NewspaperSellerSimulation\bin\Debug\NewspaperSellerSimulation.pdb
+D:\geometry\Modeling-and-Simulation\Task #2\NewspaperSellerSimulation\bin\Debug\NewspaperSellerModels.dll
+D:\geometry\Modeling-and-Simulation\Task #2\NewspaperSellerSimulation\bin\Debug\NewspaperSellerModels.pdb
+D:\geometry\Modeling-and-Simulation\Task #2\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.csproj.AssemblyReference.cache
+D:\geometry\Modeling-and-Simulation\Task #2\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.csproj.SuggestedBindingRedirects.cache
+D:\geometry\Modeling-and-Simulation\Task #2\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.Form1.resources
+D:\geometry\Modeling-and-Simulation\Task #2\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.Properties.Resources.resources
+D:\geometry\Modeling-and-Simulation\Task #2\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.csproj.GenerateResource.cache
+D:\geometry\Modeling-and-Simulation\Task #2\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.csproj.CoreCompileInputs.cache
+D:\geometry\Modeling-and-Simulation\Task #2\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.csproj.CopyComplete
+D:\geometry\Modeling-and-Simulation\Task #2\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.exe
+D:\geometry\Modeling-and-Simulation\Task #2\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.pdb
+D:\geometry\Modeling-and-Simulation\Task #2\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.Form2.resources
+D:\NewspaperSeller\Task #2\NewspaperSellerSimulation\bin\Debug\NewspaperSellerSimulation.exe.config
+D:\NewspaperSeller\Task #2\NewspaperSellerSimulation\bin\Debug\NewspaperSellerSimulation.exe
+D:\NewspaperSeller\Task #2\NewspaperSellerSimulation\bin\Debug\NewspaperSellerSimulation.pdb
+D:\NewspaperSeller\Task #2\NewspaperSellerSimulation\bin\Debug\NewspaperSellerModels.dll
+D:\NewspaperSeller\Task #2\NewspaperSellerSimulation\bin\Debug\NewspaperSellerModels.pdb
+D:\NewspaperSeller\Task #2\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.csproj.AssemblyReference.cache
+D:\NewspaperSeller\Task #2\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.csproj.SuggestedBindingRedirects.cache
+D:\NewspaperSeller\Task #2\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.Form1.resources
+D:\NewspaperSeller\Task #2\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.Form2.resources
+D:\NewspaperSeller\Task #2\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.Properties.Resources.resources
+D:\NewspaperSeller\Task #2\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.csproj.GenerateResource.cache
+D:\NewspaperSeller\Task #2\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.csproj.CoreCompileInputs.cache
+D:\NewspaperSeller\Task #2\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.csproj.CopyComplete
+D:\NewspaperSeller\Task #2\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.exe
+D:\NewspaperSeller\Task #2\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.pdb
+D:\NewspaperSeller\NewspaperSeller\NewspaperSellerSimulation\bin\Debug\NewspaperSellerSimulation.exe.config
+D:\NewspaperSeller\NewspaperSeller\NewspaperSellerSimulation\bin\Debug\NewspaperSellerSimulation.exe
+D:\NewspaperSeller\NewspaperSeller\NewspaperSellerSimulation\bin\Debug\NewspaperSellerSimulation.pdb
+D:\NewspaperSeller\NewspaperSeller\NewspaperSellerSimulation\bin\Debug\NewspaperSellerModels.dll
+D:\NewspaperSeller\NewspaperSeller\NewspaperSellerSimulation\bin\Debug\NewspaperSellerModels.pdb
+D:\NewspaperSeller\NewspaperSeller\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.csproj.AssemblyReference.cache
+D:\NewspaperSeller\NewspaperSeller\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.csproj.SuggestedBindingRedirects.cache
+D:\NewspaperSeller\NewspaperSeller\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.Form1.resources
+D:\NewspaperSeller\NewspaperSeller\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.Form2.resources
+D:\NewspaperSeller\NewspaperSeller\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.Properties.Resources.resources
+D:\NewspaperSeller\NewspaperSeller\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.csproj.GenerateResource.cache
+D:\NewspaperSeller\NewspaperSeller\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.csproj.CoreCompileInputs.cache
+D:\NewspaperSeller\NewspaperSeller\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.csproj.CopyComplete
+D:\NewspaperSeller\NewspaperSeller\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.exe
+D:\NewspaperSeller\NewspaperSeller\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.pdb
+D:\New folder\NewspaperSeller\NewspaperSellerSimulation\bin\Debug\NewspaperSellerSimulation.exe.config
+D:\New folder\NewspaperSeller\NewspaperSellerSimulation\bin\Debug\NewspaperSellerSimulation.exe
+D:\New folder\NewspaperSeller\NewspaperSellerSimulation\bin\Debug\NewspaperSellerSimulation.pdb
+D:\New folder\NewspaperSeller\NewspaperSellerSimulation\bin\Debug\NewspaperSellerModels.dll
+D:\New folder\NewspaperSeller\NewspaperSellerSimulation\bin\Debug\NewspaperSellerModels.pdb
+D:\New folder\NewspaperSeller\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.csproj.AssemblyReference.cache
+D:\New folder\NewspaperSeller\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.csproj.SuggestedBindingRedirects.cache
+D:\New folder\NewspaperSeller\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.Form1.resources
+D:\New folder\NewspaperSeller\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.Form2.resources
+D:\New folder\NewspaperSeller\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.Properties.Resources.resources
+D:\New folder\NewspaperSeller\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.csproj.GenerateResource.cache
+D:\New folder\NewspaperSeller\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.csproj.CoreCompileInputs.cache
+D:\New folder\NewspaperSeller\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.csproj.CopyComplete
+D:\New folder\NewspaperSeller\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.exe
+D:\New folder\NewspaperSeller\NewspaperSellerSimulation\obj\Debug\NewspaperSellerSimulation.pdb
